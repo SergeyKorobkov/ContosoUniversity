@@ -29,9 +29,7 @@ http://contoso-revive.runasp.net
 
 The application uses SQL Server and Entity Framework Core for data access and database management.
 
-## Screenshots
 
-*Add screenshots here.*
 
 ## Author
 
